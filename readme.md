@@ -1,8 +1,8 @@
-Readme
+# Readme
 
 Compare files by using protractor (is not needed SSH or FTP connection). On server use the protractor-cmp-files-server module.
-Usage
 
+# Usage
 
 var cmp = require('protractor-cmp-files-client');
 
